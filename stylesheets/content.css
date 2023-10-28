@@ -36,19 +36,19 @@ h2 {
 }
 .stamp1 {
   position: absolute;
-  margin-left: 780px;
-  margin-top: -100px;
+  left: 780px;
+  top: -100px;
 }
 .stamp2{
   position: absolute;
-  margin-left: -200px;
-  margin-top: 240px;
+  left: -200px;
+  top: 240px;
   height: 610px;
 }
 .stamp3{
   position: absolute;
-  margin-left: 930px;
-  margin-top: 520px;
+  left: 930px;
+  top: 520px;
   }
 
 /* Второй экран */
