@@ -187,6 +187,7 @@ h4 {
 .italic {
   color: #0085FF;
   font-family: "Menoe grotesque";
+  font-style: italic;
   font-size: 30px;
   margin-left: 1190px;
   margin-top: -750px;}
