@@ -53,6 +53,7 @@ h2 {
 
 /* Второй экран */
 .screen2 {
+  position: relative;
   width: 1440px;
   height: 700px;
   left: 0px;
@@ -95,8 +96,8 @@ h4 {
 }
 .stamp4 {
   position: absolute;
-  margin-left: 80px;
-  margin-top: 50px;
+  left: 80px;
+  top: 50px;
 }
 
 
