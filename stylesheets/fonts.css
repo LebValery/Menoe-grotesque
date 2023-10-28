@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Menoe grotesque";
+    src: url(../fonts/menoegrotesque-regular.ttf);
+}
+
+@font-face {
+    font-family: "Menoe grotesque-italic";
+    src: url(../fonts/menoegrotesque-italic.ttf);
+}
