@@ -1,12 +1,16 @@
+@font-face {
+  font-family: "Menoe grotesque";
+  src: url("/fonts/menoegrotesque-regular.ttf")
+}
+@font-face {
+  font-family: "Menoe grotesque italic";
+  src: url("/fonts/menoegrotesque-italic.ttf");
+}
 body {
   background: #FFFFFF;
   margin: 0 auto;
   padding: 0;
   width: 1440px;
-}
-@font-face {
-  font-family: "Menoe grotesque";
-  src: url("../fonts/menoegrotesque-regular.ttf")
 }
 /* Первый экран */
 
