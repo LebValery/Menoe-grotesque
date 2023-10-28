@@ -4,7 +4,10 @@ body {
   padding: 0;
   width: 1440px;
 }
-
+@font-face {
+  font-family: "Menoe grotesque";
+  src: url("../fonts/menoegrotesque-regular.ttf")
+}
 /* Первый экран */
 
 .screen1 {
