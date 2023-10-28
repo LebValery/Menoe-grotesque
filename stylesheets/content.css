@@ -1,11 +1,3 @@
-@font-face {
-  font-family: "Menoe grotesque";
-  src: url("/fonts/menoegrotesque-regular.ttf")
-}
-@font-face {
-  font-family: "Menoe grotesque italic";
-  src: url("/fonts/menoegrotesque-italic.ttf");
-}
 body {
   background: #FFFFFF;
   margin: 0 auto;
@@ -186,8 +178,7 @@ h4 {
 }
 .italic {
   color: #0085FF;
-  font-family: "Menoe grotesque";
-  font-style: italic;
+  font-family: "Menoe grotesque-italic";
   font-size: 30px;
   margin-left: 1190px;
   margin-top: -750px;}
