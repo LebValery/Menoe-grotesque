@@ -337,6 +337,84 @@ h4 {
   overflow-x: hidden;
 }
 .post{
+  
+  margin-top: -130px;
+  margin-left: -395px;
+}
+.tag{
+  margin-left: 110px;
+  margin-top: 110px;
+  transform: rotate(-14.56deg)
+}
+.s5{
+  position: absolute;
+  top: 530px;
+  left: 510px;
+}
+.tag2{
+  position: absolute;
+  top: 650px;
+  left: 880px;
+  transform: rotate(-24.13deg)
+}
+.s6{
+  position: absolute;
+  top: 1000px;
+  left: 850px;
+}
+
+.mark{
+  position: absolute;
+  transform: rotate(-10.48deg);
+  top: 1250px;
+  left: 370px;
+}
+.block{
+  position: relative;
+  margin-top: 450px;
+  margin-left: 60px;
+}
+
+.conclusion{
+  height: 26px;
+  width: 1190px;
+}
+.student{
+  position: relative;
+  font-family: "Menoe grotesque";
+  font-size: 30px;
+  color: #0085FF;
+  top: -55px;
+  left: 110px;}
+
+.school{
+ position: relative;
+ font-family: "Menoe grotesque";
+ font-size: 30px;
+ color: #0085FF;
+ top: -85px;
+ left: 600px;
+  }
+
+.date{
+ position: relative;
+ font-family: "Menoe grotesque";
+ font-size: 30px;
+ color: #0085FF;
+ top: -115px;
+ left: 1000px;
+  }
+
+/* .screen7 {
+  position: relative;
+  width: 1440px;
+  height: 1800px;
+  left: 0px;
+  top: 0px;
+  background: #ffffff;
+  overflow-x: hidden;
+}
+.post{
   margin-top: -130px;
   margin-left: -395px;
 }
@@ -397,5 +475,5 @@ h4 {
   color: #0085FF;
   margin-top: -55px;
   margin-left: 1000px;
-}
+} */
 
